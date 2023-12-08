@@ -2,7 +2,7 @@
 - 🍎 I'm currently located in NY. 
 - 👀 I’m interested in reading, playlist making, and coding! (duh)
 - 🌱 I’m currently working on an ecommerce project. 
-- 🤓 Read my blog! 
+- 🤓 Read my blog! https://medium.com/@keyyleiva
 - 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/keylaleiva/
 - Email: keyyleiva@gmail.com
